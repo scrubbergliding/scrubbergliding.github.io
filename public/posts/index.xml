@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Critiques de documentaires passionnants</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Articles on Critiques de documentaires passionnants</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 06 Oct 2024 22:03:18 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cobalt L&#39;Envers Du Rêve Électrique</title>
+      <link>http://localhost:1313/posts/cobalt-l-envers-du-reve-electrique/</link>
+      <pubDate>Sun, 06 Oct 2024 22:03:18 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cobalt-l-envers-du-reve-electrique/</guid>
+      <description>&lt;p&gt;Lien du documentaire : &lt;a href=&#34;https://www.youtube.com/watch?v=GBHgv7--i6Q&#34;&gt;Youtube&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La Caviar Connection</title>
+      <link>http://localhost:1313/posts/la-caviar-connection/</link>
+      <pubDate>Sun, 06 Oct 2024 22:01:15 +0200</pubDate>
+      <guid>http://localhost:1313/posts/la-caviar-connection/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Empatia</title>
+      <link>http://localhost:1313/posts/empatia/</link>
+      <pubDate>Sun, 06 Oct 2024 22:00:59 +0200</pubDate>
+      <guid>http://localhost:1313/posts/empatia/</guid>
+      <description>&lt;p&gt;Vu il y a longtemps.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La Syndicaliste</title>
+      <link>http://localhost:1313/posts/la-syndicaliste/</link>
+      <pubDate>Fri, 04 Oct 2024 21:05:45 +0200</pubDate>
+      <guid>http://localhost:1313/posts/la-syndicaliste/</guid>
+      <description>&lt;p&gt;C&amp;rsquo;est un film, mais pas vraiment en fait. C&amp;rsquo;est un documentaire. Parce que ce sont des choses qui arrivent.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

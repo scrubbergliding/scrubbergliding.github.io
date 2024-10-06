@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Film on Critiques de documentaires passionnants</title>
+    <link>http://localhost:1313/categories/film/</link>
+    <description>Recent content in Film on Critiques de documentaires passionnants</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 04 Oct 2024 21:05:45 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/film/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Syndicaliste</title>
+      <link>http://localhost:1313/posts/la-syndicaliste/</link>
+      <pubDate>Fri, 04 Oct 2024 21:05:45 +0200</pubDate>
+      <guid>http://localhost:1313/posts/la-syndicaliste/</guid>
+      <description>&lt;p&gt;C&amp;rsquo;est un film, mais pas vraiment en fait. C&amp;rsquo;est un documentaire. Parce que ce sont des choses qui arrivent.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

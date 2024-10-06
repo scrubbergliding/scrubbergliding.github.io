@@ -1,0 +1,22 @@
+baseURL = 'https://scrubbergliding.github.io/'
+languageCode = 'fr-fr'
+title = 'Critiques de documentaires passionnants'
+theme = 'dream'
+
+[params]
+#zenMode = true
+
+lightTheme = "emerald"
+darkTheme = "forest"
+
+
+author = "g1eny0ung"
+description = "g1eny0ung 的生活记录～"
+avatar = "me/me.png"
+headerTitle = "Foyer Untel"
+motto = "Se renseigner avant d'avoir un avis"
+
+favicon = "bird.png"
+
+siteStartYear = 2024
+
