@@ -16,7 +16,7 @@ tags:
   - industrie
   - arte
 # nolastmod: true
-draft: true
+draft: false
 ---
 
 Lien du documentaire : [Youtube](https://www.youtube.com/watch?v=GBHgv7--i6Q)
